@@ -1,0 +1,12 @@
+{
+  "name": "Oak",
+  "description": "🌳 Measure outdoor distance between 2 keychain holders 🔑",
+  "version": "1.0",
+
+  "power": "LiPo",
+  "wireless":"LoRa",
+  "sensor": "GPS, E-Ink",
+  "mcu": "SAMD21E",
+
+  "status": "ongoing"
+}
