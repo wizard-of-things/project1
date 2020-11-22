@@ -1,5 +1,6 @@
 # Temporary
 .DS_Store
+.jekyll-cache
 _autosave*
 .vscode
 *.kicad_pcb-bak
@@ -17,3 +18,4 @@ _autosave*
 _site
 
 datasheets
+.jekyll-cache
